@@ -13,8 +13,8 @@ River Jhelum,Anantnag,33.73,75.15,0.0,0.0
 River Jhelum,Poonch,33.77,74.09,0.0,0.0
 River Jhelum,Qila Rohtas,32.65,73.58,0.0,0.0
 River Jhelum,Mangla,33.14,73.64,0.0,0.0
-River Jhelum,Mandi Bahauddin,32.59,73.49,0.0,0.0
-River Jhelum,Chakwal,32.93,72.86,0.0,0.0
+River Jhelum,Mandi Bahauddin,32.59,73.49,0.0,
+River Jhelum,Chakwal,32.93,72.86,,0.0
 River Jhelum,Palandri,33.71,73.75,0.0,0.0
 River Chenab,Kishtwar,33.31,75.77,0.0,0.0
 River Chenab,Ramban,33.24,75.24,0.0,0.0
@@ -31,8 +31,8 @@ River Ravi,Kathua,32.37,75.52,0.0,0.0
 River Ravi,Gurdaspur,32.04,75.4,0.0,0.0
 River Ravi,Pathankot,32.27,75.65,0.0,0.0
 River Ravi,Narowal,32.1,74.87,0.0,0.0
-River Ravi,Okara,30.81,73.45,0.0,0.0
-River Ravi,Lahore,31.52,74.36,0.0,0.0
+River Ravi,Okara,30.81,73.45,0.0,
+River Ravi,Lahore,31.52,74.36,,0.0
 River Sutlej,Bilaspur,31.33,76.76,0.0,0.0
 River Sutlej,Kangra,32.1,76.27,0.0,0.0
 River Sutlej,Kullu,31.96,77.11,0.0,0.0
